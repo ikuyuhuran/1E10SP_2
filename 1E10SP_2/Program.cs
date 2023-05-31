@@ -11,8 +11,8 @@ for (int i = 0; i < Ary1.Length; i++)
 
 Console.WriteLine("実行後のAry1の内容: " + string.Join("", Ary1));
 Console.WriteLine("実行後のAry2の内容: " + string.Join("", Ary2));
-/*
- *Ary1 を {1, 2, 3, 4, 5, 6, 7} で初期化する
+
+/*Ary1 を {1, 2, 3, 4, 5, 6, 7} で初期化する
 Ary2 を {0, 0, 0, 0, 0, 0, 0} で初期化する
 表示 "実行前のAry1の内容: " と Ary1 を連結して表示する
 表示 "実行前のAry2の内容: " と Ary2 を連結して表示する
